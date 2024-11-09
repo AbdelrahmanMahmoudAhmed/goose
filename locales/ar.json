@@ -1,0 +1,74 @@
+{
+  "global": {
+    "err_msg1": "يبدو أنك فقدت وجهتك !",
+    "err_msg2": "قد يكون الرابط الذى اتبعته خطأ أو معطلا , أو لربما تم حذف الصفحه",
+    "to_home": "الى الصفحة الرئيسية",
+    "search_data":"بيانات البحث",
+    "close":"إغلاق",
+    "under_construction":"تحت الانشاء"
+  },
+  "header": {
+    "home": "الرئيسية",
+    "promo": "الترويج",
+    "my_booking": "حجزي",
+    "sign_in": "تسجيل الدخول",
+    "change_lang": "اللغة"
+  },
+  "pages":{
+    "login":"تسجيل الدخول",
+    "promo":"الترويج",
+    "my_booking":"حجزي"
+  },
+  "first_section": {
+    "title_one": "اكتشف عالمنا المذهل",
+    "title_two": "سافر إلى أي مكان الآن!"
+  },
+  "second_section": {
+    "title": "الوجهات ذات الشعبية",
+    "description": "عطلات تجعل تجربتك ممتعة في إندونيسيا!",
+    "day": "يوم",
+    "days": "أيام"
+  },
+  "form":{
+    "search":"ابحث",
+    "lable":{
+      "type":"نوع الرحلة",
+      "one_way":"ذهاب فقط",
+      "round_trip":"ذهاب و عودة",
+      "to":"إلى",
+      "from":"من",
+      "depart":"المغادرة",
+      "return":"العودة",
+      "class_travelers":"الدرجة و المسافرون"
+    },
+    "placeholder":{
+      "flight_from":"رحلتك من أين؟" ,
+      "where_to":"إلى أين؟",
+      "choose_one":"أختر أحد الاختيارات"
+    },
+    "errors":{
+      "choose_date":"إختر تاريخ من فضلك",
+      "add_from":"أضف مكان بدء الرحلة",
+      "add_to":"أضف وجهتك",
+      "choose_option":"من فضلك أختر واحدة من الاختيارات"
+    }
+  },
+  "footer": {
+    "about": "من نحن",
+    "support": "الدعم",
+    "get_the_app": "احصل على التطبيق",
+    "about_us": "نبذة عن  GooseFligh",
+    "how_it_works": "كيفية العمل",
+    "blogs": "المدونات",
+    "forum": "المنتديات",
+    "help_center": "مركز المساعدة",
+    "contact_us": "اتصل بنا",
+    "policy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "safety": "الثقة و الامان",
+    "accessibility": "امكانية الوصول",
+    "android": "Tripma لنظام Android",
+    "ios": "Tripma لنظام IOS",
+    "mobile": "الموقع"
+  }
+}

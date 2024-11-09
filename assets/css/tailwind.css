@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .app-container {
+        @apply px-10 lg:px-[100px] xl:px-[150px] 2xl:px-[200px] 3xl:px-[325px] mx-auto;
+    }
+    .main-container {
+        @apply px-10 lg:px-[100px] xl:px-[100px] 2xl:px-[80px] 3xl:px-[160px] mx-auto;
+    }
+    .active-nav {
+        @apply text-[--main-color]
+    }
+
+}
+
+@layer base {
+    html {
+      font-family: "Montserrat", Helvetica, sans-serif;
+      
+    }
+  }

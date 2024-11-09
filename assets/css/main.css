@@ -1,0 +1,65 @@
+@import "./tailwind.css";
+
+:root {
+  /* drop down style */
+  --ms-border-color-active: #EAA121;
+  /* --ms-dropdown-border-color: #EAA121; */
+  --ms-ring-color: none;
+  --ms-tag-font-weight: 400;
+--ms-border-width: 0px;
+  --ms-py: 0px;
+  --ms-option-bg-selected: #7C8DB0;
+  --ms-placeholder-color: #7C8DB0;
+
+  --ms-option-bg-selected-pointed: #EAA121;
+
+  /* variables */
+  --main-color: #EAA121;
+  --secondary-color: #183867;
+  --third-color: #7C8DB0;
+
+  caret-color: var(--main-color);
+}
+.multiselect-wrapper {
+  height: 50px;
+}
+body {
+  scroll-behavior: smooth;
+  background-color: #f3f9ff;
+  color: var(--secondary-color);
+}
+
+
+input {
+  outline: none !important;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: var(--main-color);
+}
+
+::selection {
+  color: white;
+  background: var(--main-color);
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--third-color);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--main-color);
+  border-radius: 20px;
+}
+

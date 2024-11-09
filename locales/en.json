@@ -1,0 +1,76 @@
+{
+  "global": {
+    "err_msg1": "Looks like you are lost.",
+    "err_msg2": "The link you followed may be broken, or the page may have been removed.",
+    "to_home": "To home page",
+    "search_data":"Search Data",
+    "close":"Close",
+    "under_construction":"Under construction"
+
+  },
+  "header": {
+    "home": "Home",
+    "promo": "Promo",
+    "my_booking": "My Booking",
+    "sign_in": "Sign In",
+    "change_lang": "lang"
+  },
+  "pages":{
+    "login":"Login",
+    "promo":"Promo",
+    "my_booking":"My Booking"
+  },
+  "first_section": {
+    "title_one": "Discover Our Paradise Worlds",
+    "title_two": "Travel Anywhere Now!"
+  },
+  "second_section": {
+    "title": "Popular Destinations",
+    "description": "Vacations to make your experience enjoyable in Indonesia!",
+    "day": "Day",
+    "days": "Dayes"
+  },
+  "form": {
+    "search":"Search",
+    "lable": {
+      "type":"Trip type",
+      "one_way": "One Way",
+      "round_trip": "Round Trip",
+      "to": "To",
+      "from": "From",
+      "depart": "Depart",
+      "return": "Return",
+      "class_travelers": "Cabin Class Travelers"
+    },
+    "placeholder": {
+      "flight_from": "Flight From?",
+      "where_to": "Where To",
+      "choose_one":"Choose one of the options"
+    },
+    "errors": {
+"choose_date":"Please select a date",
+"add_from":"Add your starting point",
+"add_to":"Add your destination",
+"choose_option":"Please select one of the options"
+
+    }
+  },
+  "footer": {
+    "about": "About",
+    "support": "Support",
+    "get_the_app": "Get The App",
+    "about_us": "About GooseFligh",
+    "how_it_works": "How it works",
+    "blogs": "Blogs",
+    "forum": "Forum",
+    "help_center": "Help Center",
+    "contact_us": "Contact US",
+    "policy": "Privacy Policy",
+    "terms": "Terms Of Service",
+    "safety": "Trust And Safety",
+    "accessibility": "Accessibility",
+    "android": "Tripma for Android",
+    "ios": "Tripma for IOS",
+    "mobile": "Mobile site"
+  }
+}
